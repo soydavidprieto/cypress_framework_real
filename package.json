@@ -1,0 +1,27 @@
+{
+  "name": "cypress_framework_real",
+  "version": "1.0.0",
+  "description": "Test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soydavidprieto/cypress_framework_real.git"
+  },
+  "keywords": [
+    "Test",
+    "Cypress"
+  ],
+  "author": "David Prieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soydavidprieto/cypress_framework_real/issues"
+  },
+  "homepage": "https://github.com/soydavidprieto/cypress_framework_real#readme",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
